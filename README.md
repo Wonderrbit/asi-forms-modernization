@@ -135,4 +135,4 @@ MCP_PORT=3001                      # MCP server
 
 > "Não vendo projeto de migração. Entrego o pipeline que moderniza enquanto seu negócio continua rodando — agora com criptografia resistente a quantum."
 
-**Diagnóstico 30min:** [Calendly Link] | **Case completo:** [Notion/PDF Link] | **Contato:** +55 44 98438-1540
+**Diagnóstico 30min:** [Calendly Link] | **Case completo:** [Notion/PDF Link] | **LinkedIn:** https://www.linkedin.com/in/luiz-dranka-ba637620b/
